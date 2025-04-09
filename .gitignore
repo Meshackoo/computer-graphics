@@ -1,0 +1,55 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.out
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Build directories
+/build/
+/bin/
+/dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Node.js (if using)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Java
+*.jar
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# VS Code settings
+.settings/
+
+# Environment files
+.env
+.env.local
